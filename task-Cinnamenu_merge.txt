@@ -1,0 +1,1 @@
+at Cinnamenu folder, improve the foldmerger.sh and then merge remote /media/daniella/B/git/Floflis/cinnamon-spices-applets/Cinnamenu@json

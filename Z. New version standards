@@ -1,0 +1,26 @@
+Update files that contain branding:
+- /usr/share/cups/data/default-testpage.pdf (include/img/default-testpage.pdf or include/default-testpage.pdf)
+
+/1/Floflis/system/os.json (/usr/lib/floflis/config - from DNA layer)
+
+Update backgrounds (include/img/bg.png, include/img/lockscreen.png) and Explore menu icon (include/img/logo.png)
+
+Update include/img/logo plain.png
+
+Update include/sounds (only when it is a groundbreaking version like Floflis 19 and Floflis Vision)
+
+Brand new /usr/share/icons/Floflis/scalable/places icons (only when it is a groundbreaking version like Floflis 19 and Floflis Vision)
+
+Update main theme and its dark version (include/Eleganse-Floflis.tar.gz, include/Adapta.tar.gz, include/Adapta-Nokto.tar.gz)
+
+Update watermark (include/img/watermark.png)
+
+Update logotype (include/img/OSlogotype.png)
+
+Change avatars and backgrounds (remove or add - include/Avatars.tar.gz, include/Backgrounds.tar.gz, include/floflis-backgrounds.xml)
+
+New Web3Updater branch (two: for insider preview and for release versions)
+
+Update include/ubiquity-slideshow.tar.gz
+
+Apps, kernel, drivers and libs at their latest stable/release version

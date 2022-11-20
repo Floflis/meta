@@ -1,0 +1,38 @@
+- Same way UniOS is a post-install script that makes a distro, do the same for unreleased features such as Windows, and other test-only features
+
+1st build:
+
+- fix OPI license
+- reduced ISO size
+- up-to-date OS data
+- new avatars
+- custom branding
+- up-to-date ISO slider
+- play version sound (foca)
+- remove GNOME DE
+- ISO Desktop taskbar icon order: Ubiquity, Firefox, Thunderbird, Files, Music, LibreOffice Writer, Ubuntu Software, Help
+- customize the Help (Ubuntu Desktop Guide) app's HTML. Also add other help docs for other apps
+
+Floflis Central experimental dark mode, will toggle Adapta or Adapta-Nokto
+
+at /usr/share/cinnamon/cinnamon-settings/cinnamon-settings.py at "ARG_REWRITE", place "user" pointing at a brand new "cinnamon-settings-user" (inspiration: /usr/share/cinnamon/cinnamon-settings-users) exec that ported functionality from its part on cinnamon-settings.py, for later redirecting to Floflis Central's User section; when Floflis Central is openned with an argument, it opens a single page in the "SinglePage" layout which gets logics from a common event-sheet
+
+replace include/img/lockscreen.png
+
+Modified x theme merged into material theme
+
+after:
+- neofetch pr (or make fork that is installable using script or Unistore, and gets updates)
+
+- let user choose between downloading Office wrapper on Unistore, downloading Office 360/other directly from Microsoft and downloading Windows 10 ISO for winapps, use an older version of Office on WINE, or try alternatives such as OnlyOffice and LibreOffice (Plasmmer Office ISO or physical with NFT)
+
+- print stickers for keyboard, to use Floflis logo
+
+- Page explaining about NFTs (who's using - such as FN - and environmental info)
+
+- Docs, Blog and main/CLI sites are available ffln, but updateable using gipfs (gipfs will have template presets, such as Hugo blogs)
+
+- Site Maker
+- Create collaborative sites/blogs on Hugo
+- Blogger > Hugo template converter
+- Blogger > Hugo posts importer

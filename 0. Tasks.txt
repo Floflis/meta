@@ -1,6 +1,6 @@
-- Funding/Treasury use: taskbar icon grouping!, merge explore menus, improved Calendar applet, dvd explorer option to use as Desktop
-- 
-- 
-- 
+- Funding/Treasury use: taskbar icon grouping!, merge explore menus, improved Calendar applet, dvd explorer option to use as Desktop, UniStore NFTs, FLOF 2.0 (token burn)
+- Site: token allocation & others
+- Distribute gitPOAPs (also to fork cntrbtrs)
+- FLOF distribution Google Sheet
 - 
 - 

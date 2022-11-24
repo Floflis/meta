@@ -1,0 +1,78 @@
+- to-merge.sh contains all features that will be ported to other layers, for quick tests, and comments for every layer / works after DNA layer, as a medium for Core
+- Comment: "former X Layer"
+- Cinnamon DE
+- Support to run custom scripts after install (UniOS)
+- Default applets and desklets
+- Default background
+- (TEST)
+
+Tasks:
+- firstboot sh identifies username and reads from JSON and writes correctly (TEST)
+- Ethereum wallet
+- User profile (username, IPFS ID, ETH address)
+- investigate the cron issue
+- fix Soil layer (TEST)
+- Backup Seed (rnbow-compatible) and IPFS ID, encrypted on cloud services
+-
+- Ask if IPFS Desktop uses the existing go
+- If upper layer is detected, dont install go-ipfs and change flo-init for IPFS Desktop instead
+
+- Default Applets and their data (cant manage user folder yet)
+- Plasmozill Firefloflis as default browser (in updates it will ask Fhrome or Firefloflis) (cant manage user folder yet)
+-
+- Default Desklets and their data
+-
+- Default Extensions and their data
+
+Then:
+
+Norml version:
+- Insider Preview builds (requires Web3Updater, own fork of Firefox)
+- Rust replacements
+- NodeJS
+- Aragon (MetaMask/Frame isnt work; only Web3Conn)
+- Axie and Rnbw (?)
+- Lnch POAP
+- Physical bx with NFT
+
+Updates:
+- FLOF governance
+
+Flf 2.
+- First Boot assistant before login screen
+- Explore menu img with theme
+- ffln search (use vznt)
+- merged applets+desklets+apps (hybrid)
+- merged start menus, with support to touch
+- after boot assistant on first and every boot, to guide
+- computing course, with NFT badges
+- let user choose theme (Vsn, CmmDesign)
+- let user choose bar (hybribar or dock+statusbar)
+- ask to install WINE (use vznt)
+- ask to install Anbox (use vznt)
+- light, dark and normal themes
+- option to change theme and background according to time
+- Action Center applet, have Notifications and other applets as dependencies (Action Tiles API)
+- HTML5Apps Platform
+- More event sounds, such as Important Notification
+- Popup to download (vznt) or buy physical software packages such as Office
+- Option to offload NodeJS and other stuff
+- FilePeace for backup, sync, AppCapsule, offload apps/data on external drives and git ledger on tree disc
+- Dedup
+- Call music
+- SMS sound
+- Version launch POAP
+- Provide feedback
+- Feedback for Windows .exe
+
+Flf 22:
+- Alertaj (not integrated with Action Center, yet)
+- Deep integration with Plasmmer Accounts
+- Internet Cat alpha (both for Desktop and Mobile, using WalletConnect)
+- Flo-bootstrap: flofify any device (Android, Windows, Mac)
+- Version launch POAP
+- NFT Cases (nested NFTs)
+
+Flf NXT:
+- Alertaj integrated on Action Center
+- Version launch POAP

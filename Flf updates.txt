@@ -1,0 +1,60 @@
+- Tests with jade DE
+- post-install script (UniOS)
+- Grass layer (Windows 3.1 - TEST)
+- add /home/Desktop icons (Computer, Recycle Bin, etc.)
+- add background
+- Base layer (Windows 98 - TEST)
+----------
+- WINE
+- Works to support MS Office 2010
+- Works to support MS Office 2013 https://askubuntu.com/questions/1008411/wine-3-1-office-2013-starts-with-a-black-screen
+- Works to support LoL
+- Works to support Construct 2
+-----------
+- Home layer (Windows XP - TEST)
+- IPFS/Web3 Updater
+- Ultimate layer (Windows 7 - TEST)
+------------
+- Anbox
+- F-Droid pre-installed
+- Working Play Store
+- Test NFC (NFC Tools, Google Pay)
+- rnbow wallet
+-------------
+- Frame wallet
+- Status.im
+- Cinnamon as default/Uninstall Gnome (TEST)
+- Two editions: UniOS Home or Ultimate
+-
+- recover Screens source and use it for mobile support in CinnStart
+- Panel's open windows' applet, adapted for mobile
+- remove window bar
+-
+- Support for Cordova and Windws widgets
+- Support for Windows 10 UWP (JS) tiles
+
+--------------------------------------------------
+Social OS update:
+Peeper
+- Login Web3
+- md editor (IPFS Essay)
+- Post, get CID
+- Tx is initiatd with CID as peep content
+
+ETH Memes meme of the day
+
+Integrate Ethereum, 3Box, BrightID, Steem, Hive and DTC accounts (synced into Plasmmer Account)
+
+Peep directly from systray (goes to Orgute/Plasmmer Accounts, with option to also post onchain/tw/etc.)
+--------------------------------------------------
+
+--------------------------------------------------
+Digital Worker update:
+NeTVision app: tabs for TV (YT channels) and DTube.
+NeTVision: post video, comment, feedback tabs limited to some users
+Video upload option, that doesn't only uploads into Steem/HIVE/DTC but also to ETH.
+Option to deploy an megachannel (in this Fl update there will be also option to make digital organizations/enterprises/NGOs/LLCs/cooperatives).
+YT Calc app (part of Calc Suite)
+YT Video S app
+OBS and Openshot
+--------------------------------------------------

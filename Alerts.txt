@@ -1,0 +1,2 @@
+Floflis API supports types of sound volume, such as emergency
+Emergency alert to tell when no signal or back online

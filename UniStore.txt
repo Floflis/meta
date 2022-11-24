@@ -1,0 +1,14 @@
+- UniStore for .sh (use Web3Updater)
+- Centralized JSON with list of .deb (command that opens it)
+- Centralized JSON with list of .exe (mark compatibility with WINE and Windows version)
+- unistore install exe/deb
+
+UniStore server
+- get data from Flf server
+- local app updates its repo/listing index from the server
+- eth addresses with signature to publish/update assets
+- sell apps/games/etc for FLOF
+
+Flf NFT Backgrounds factory:
+- ERC-1155
+- Addresses permitted to mint (bg.unistore.eth)

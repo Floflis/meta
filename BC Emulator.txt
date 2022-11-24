@@ -1,0 +1,4 @@
+- Identify buttons pressed and timestamp (find in JS its keyboard triggers)
+- For every minute, Pause and bc store moves
+- Save state after stored bc
+- Know context: which screen are (logo, intro, titlescreen, Oak presentation)

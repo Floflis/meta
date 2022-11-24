@@ -1,0 +1,2 @@
+- button to switch when writing md
+- works both on Desktop and Mobile

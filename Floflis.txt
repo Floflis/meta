@@ -1,0 +1,91 @@
+https://twitter.com/i/communities/1567895668248690696
+ttk
+https://link3.to/floflis
+linktree
+Gitcoin Grant + VC open
+
+New apps: SuperRare, Foundation
+
+"I want to add some cards/slider to Floflis Central where ppl could find opportunities, advertise, learn, build, earn"
+"BTW I don't want to fully challenge Windows. Floflis will leave WINE behind and depend on an installed Windows to do some things (such as gaming).
+
+Also, Floflis will enter the mobile market for feature/cheap phones only (no Android emulation, except on the desktop)"
+"Floflis have @0xFrame and geth integrated.
+
+You could sign-in as your DAO! Then you could mint an NFT using your DAO and let its members/holders approve."
+"That's also another field I want to make Floflis useful to: DAOs.
+
+Let anybody create a DAO (also teach them) and discover other DAOs, and also to find or advertise jobs"
+"A keyring that is unlocked by a ETH signature/sign-in.
+
+Then the password auto-fill on Web2 like if it were Web3, by just signing with ETH. The user wouldn't even perceive what is the tech in the background, what would be an awesome UX."
+
+"
+I want to build an NFT generator for Floflis, but to launch it only Q3/Q4 2023
+This should work as a wizard enabling anyone to create their own PFP collections"
+
+"
+I've already started a bash script for randomly generating NFTs, but it didn't took off the lane (a lot of things to sort out and fix. It's not my only bash script and others had failed too before working now)
+Thankfully Floflis do already have a welcoming environment for Electron apps and designing them for me is a breeze, so I want to make an app for NFT creators, too."
+
+"
+> Can 1 person design more than one pfp?
+
+Floflis will do some questionaires about the user's skills, desires, hobbies, personality, etc.
+
+Then it will offer suggestions such as apps to use, job listings, courses, etc).
+
+It will also offer Creator Packs (apps and wizards for Streammers, Drawers, Musicians, GameDev, etc)
+For NFT creators, it will offer drawing apps, game engines, connect with ppl that can form a team/guild/DAO, and yes, the NFT generator wizard"
+
+"
+Floflis will introduce the concept of PlayAndEarn (formerly PlayToEarn) to OSes
+In the screenshots there is Floflis Central, its main app.
+
+It have the Wallet tab open in the screenshot
+Wallet shows the tokens the user have (only Floflis' curated tokens are supported yet) and the most magic tab is Inventory: PFPs, Pets, Paintings, etc
+No need of being a developer.
+
+If you are creative and can come up with ideas that a Web3 OS should have, that is more than enough
+UniStore will be Floflis' main digital asset store.
+
+Apps, games and even desktop backgrounds (NFTs) will be purchasable with FLOF tokens
+Every purchase will burn some FLOF tokens in the future (others will go to the DAO Treasury as fees)
+> Unistore is just like playstore right but a web3 version
+
+Yes.
+But monetization won't be the focus; most of the apps/games will be free probably.
+
+But they will hypercapitalized compared to current digital stores, as token-gating/NFT-gating will power the store (integration with @tryrollhq's personal tokens should come, too - so an app developer could sell a PRO version/license as an NFT, purchasable through its own social money token"
+
+Floflis should help sanction even .eth sites (and recommend .eth for sites like Crve)
+Fr brwsr: Site Owl, PEHTML
+Site Owl:
+- If a site dont have FS DLink, suggest .eth site
+- Tell if phishing of known site
+- Can identify DNS psn like what happened to Crve?
+- Block sanctioned sites (depend on Floflis' system-wide settings to also cover .eth sites and FS CIDs)
+
+Floflis incentivize the use of PoAPs for event organizers
+https://webforms.pipedrive.com/f/cBaHQTJhnjmLQUAafhpwbztIVjlSySqF4OG0UrCPBs3N6l1s4VR7sMkJn8sQLjlarp? or https://app.poap.xyz/admin/events/new/
+Same for musicians and Audius (remember abt Ttk)
+
+pre-installed sites/apps:
+https://poap.xyz, https://app.poap.xyz/, https://poap.ghost.io
+-
+Floflis events:
+- https://app.poap.art
+Social desktop shortcut, with an app that merges timelines and profiles
+Profile @ tags/QR (inst offers native), avatar circles/frames
+Use desktop background and social covers as walls to put stickers
+-
+Floflis wallet:
+- USDP (only select countries, such as South America or anywhere Paxos operate)
+- LDO
+- OP
+
+Floflis 2D verse: Bag -> PoAP case
+
+https://www.lirn.io/
+https://speedrunethereum.com/
+https://www.30daysofweb3.xyz/en/curriculum/6-building-your-frontend/3-intro-to-web3storage

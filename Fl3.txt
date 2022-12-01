@@ -1,0 +1,206 @@
+fl c2 deduplicate "Files/icon-16.png", "Files/icon-32.png", "Files/icon-114.png", "Files/icon-128.png", "Files/icon-256.png" and "Files/loading-logo.png" files if same CID
+
+01 remove and unstash alias ("git rm --cached <file>...")
+01 use rust-git whenever possible
+
+Floflis tool for Windows time: Floflis stores when Floflis got connected to the Internet and its time/date changed, and identify when Windows has started and still offline. This tool will serve to not permit Windows messing up with time/date as its different from Linux. Windows is offline and its date/time is different of Linux, then when it goes online and changes date/time, and restarts to Linux and it also started offline: revert.
+
+HTML5 Player:
+- .html5 files
+- .swf files (maybe also .flv)
+- .jar mobile files using https://github.com/szatkus/js2me
+
+Floflis task: mimetypes for .crx and .xpi files (for .xpi files, only recognize as firefox addon after validating)
+
+Floflis launch themes, such as the classic yellow of 2014
+
+Flolis Insiders blog
+
+Floflis Packager: remove all files/folders that are on .gitignore
+
+git config --global init.defaultBranch main
+git wrapper: on every git init: git branch -m main
+
+Internet Boat and Internet Cat will be merged into davidInternet; with support to Chromium extensions (/media/daniell/B/1/personal/projects/Desktop/Browser/Notes/Support for extensions)
+
+Create sources for both alertz and alertz app. alertz will be based in FMWK for C2, and will have /media/daniell/UBUNTU/alertz.png as icon.
+
+Floflis Packager is having issues updating Internet-Boat's manifest.webapp
+pre-initpreview isn't working (tested at Internet-Boat)
+
+Floflis Application Handler will be part of floapps, which will be responsible for installing mimetypes and handling the app/game install calls
+
+fill out info completely at C2: writer, explorer, Issues Editor, IC, IB, Central
+
+Floflis Packager: detect pre-export. If no initpreview when attempting to pack, do initpreview
+post-pre-export, delete icon.png
+only exec pre-initpreview if it is found
+
+Floflis Packager: cmd to init application's exportsfolder if its not root and not found (Central task: "- Build from source (Floflis Packager, c2export and its HTML and scripts))"
+
+missing manifest.webapp: IC, IB
+pretty id (as for Issues Editor) for IC, IB
+
+Floflis Packager is symlinking node_modules before validating manifest.webapp
+
+Floflis Packager gets the application icon and if linux_icon manifest entry have content but no icon installed (check with get-default-icons.sh and also in hicolor) then use linux-icon-builder and install icons at hicolor
+
+pack.sh: if non-c2 application, symlink node_modules+package.json+main.js
+Floflis Packager: after initializing/preview, modify package.json values (name, version, description, author and its email/site) from manifest.webapp
+
+rmv tool will have a lib which will also be used by Screens Explorer: it will detect the device/disk of current path. rmv will use it to get the path of the storage's recycle
+floflis-application-
+
+complete Floflis Packager
+add to Floflis Soil: linux-icon-builder, Floflis Packager, floflis-application-handler, new Central/Aragon installer using floflis-application-handler
+
+
+Floflis Packager adds default package.json and main.js if these aren't present in the application_exportsfolder, also symlinks node_modules
+Make initpreview independent of C2, and turn it more into an initializer
+
+mlq: support reading tags by name/type instead of ID (just dont use #)
+
+Floflis Central:
+- math items count
+
+Alertz app (identify when JSON feed have new entry - check URL with a trigger/cronjob every specified time - create single-news feeds such as subscribing for a launch then receive a single notification then automatically unsubscribe)
+
+Musiclr Player and its randomness for music
+
+Floflis Central, Personal Issues and FMWK sources:
+resize events
+Common sheet
+add variables-triggers sheet
+better way to read from sh output
+comments
+groups
+
+pptx/docx/xls versioning (also search if their @git exists, if not create recursively for every file)
+
+also creates .file-timestamps@VideoFrame.pptx.txt before every commit
+----------------------------------------------------------------------
+    Old Init - current timestamp:
+    
+    Access: 2021-01-04 01:44:02.092707300 -0300
+    
+    Modify: 2017-08-28 19:20:59.963867000 -0300
+    
+    Change: 2017-08-28 19:20:59.963867000 -0300
+----------------------------------------------------------------------
+
+floflis status: infur and other services it depends
+
+Floflis fixer, for when you cant use drive:
+sudo chmod -R a+rwX /media/daniell/9C33-6BBD && sudo chown daniell:daniell /media/daniell/9C33-6BBD
+
+utility: fullpath (displays the path where user is now; handy for copy-paste)
+
+plugz: init in folder + list projects and their dependencies/versions (sudo apt install auditd)
+
+Idea for Screens Explorer: add gps to files, so user will be notified via Alertz when this file is moved. Alertz will have a category with a tag. (from Plugz)
+
+Floflis Windows<>Linux DriveSync (part of FilePeace)
+- Windows: add floflis-windows_.verifyC file at C drive (can register all other disks' letters, too)
+- Linux: search for floflis-windows_.verifyC on all drives (to make it fast, find from "ls"; the drive it is found, is registered as Windows' drive
+- form a file of cross-os drive linking (this file can be used for redirecting Windows' symlinks andf other uses)
+-
+rm -rf .minecraft && ln -s /media/daniell/Windows\ 10\ main/Users/Daniell/AppData/Roaming/.minecraft .minecraft
+
+Floflis pre-pinned:
+http://dnslink.dev.ipns.localhost:8080/#example-ipfs-gateway
+http://ipfs.io.ipns.localhost:8080/
+http://docs.ipfs.io.ipns.localhost:8080/
+http://blog.ipfs.io.ipns.localhost:8080/
+
+/etc/lsb-release
+-
+add to map:
+/etc/floflis-release
+/usr/share/cups/data /usr/share/cups/data/default-testpage.pdf
+
+UniStore:
+Skype is on category Internet
+https://download.skype.com/s4l/download/mac/Skype-8.73.0.92.dmg
+https://download.skype.com/s4l/download/win/Skype-8.73.0.124.exe
+https://repo.skype.com/latest/skypeforlinux-64.deb
+-
+Minecraft is on category Games
+dependency: default-jre (sudo apt-get install default-jre && sudo apt --fix-broken install)
+https://launcher.mojang.com/download/Minecraft.deb
+-
+Microsoft Teams (teams_1.4.00.13653_amd64.deb) is on category Internet
+https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.4.00.13653_amd64.deb
+-
+Microsoft Edge Beta is on category Internet
+https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_92.0.902.40-1_amd64.deb
+https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeInsiderPage&Channel=Beta&language=en
+-
+Microsoft Edge is on category Internet
+https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeStablePage&Channel=Stable&language=en
+-
+/media/daniell/2B15-AC7E16/Linux/Downloads/Dirf
+-
+https://github.com/sirredbeard/unofficial-webapp-office
+-
+https://github.com/cross-platform/apple-music-for-linux
+-
+https://github.com/cross-platform/audible-for-linux
+-
+https://github.com/cross-platform/icloud-for-linux
+-
+Cinnamon applets, desklets and extensions
+-
+/media/daniell/UBUNTU/Win7Games4Win10_8_81_v2.zip
+-
+4K Video Downloader and Stogram (Windows versions available, but .deb if Linux is used instead)
+-
+Teams backgrounds:
+https://go.microsoft.com/fwlink/p/?LinkID=2165121&clcid=0x409&culture=en-us&country=US
+
+replace "cinnamon-settings info" for NodeJS GUI from Floflis Central
+
+if [ -e /tmp/cubicmode ]; then
+   echo "Uninstalling Ubuntu's Firefox..."
+   sudo apt-get --purge autoremove firefox
+   sudo rm -Rf /etc/firefox/
+   sudo rm -Rf /usr/lib/firefox*
+   echo "Installing Floflis's Firefloflis..."
+   sh include/Plasmozill\ Firefloflis/install.sh
+   
+fi
+firedoge icon for firefloflis
+add firefloflis icon application (also pin)
+
+sudo snap install uno-calculator --beta
+
+- Plasmmer Health app (applications-health-symbolic)
+- HTML5 files can be pinned in applications-utilities
+- /etc/xdg/menus
+- new icon for colorpicker.png (now out of the Floflis icons pack)
+- duplicate files finder will de-duplicate a lot of files
+
+/usr/bin/firefox: symlink to firefloflis ?
+/usr/bin/chromium: symlink to firefloflis ?
+
+program to edit linux config files, like: sudo sed -i 's/^PRETTY_NAME=" .*$/PRETTY_NAME=" Floflis 20 build 2105 'Eusoumafoca'"/' /usr/lib/os-release
+
+------------------------------------------------------------------------------------------------------------------------------
+FilePeace: tool that links/syncs data of an Windows app/PortableApp/Portapp and a Linux app, the user directories between Windows/WINE/Android/Linux/PortableApps, uses PersonalTree discs (git) and also put these files on external drive. Personal uses: play Pokemon GBC games both on PC and phone with savefile synced
+For Syncontacts and other syncs, FilePeace will use IPNS
+
+Floflis FilePeace should verify on boot/login if external drive is present/mounted, and warn to not open synced AppCapsule programs if not mounted
+
+rm -rf /home/daniell/.minetest/* && ln -sf /media/daniell/B/PortableApps/PortableApps/minetest-5.0.1-win64/* /home/daniell/.minetest
+Sync direction: Ext-HD-Windows/Linux
+
+rm -rf /home/daniell/.config/filezilla/* && ln -sf /media/daniell/B/PortableApps/PortableApps/FileZillaPortable/Data/settings/* /home/daniell/.config/filezilla
+------------------------------------------------------------------------------------------------------------------------------
+
+sync:
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+(private/encrypted or public sync folders)
+
+- Plugz and its build sys. Get dependencies and rely on Updater/UniStore
+
+- ipfs add -q --only-hash <file.extension> | ipfs cid base32 (flo cid)

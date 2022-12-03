@@ -1,8 +1,3 @@
-fl c2 deduplicate "Files/icon-16.png", "Files/icon-32.png", "Files/icon-114.png", "Files/icon-128.png", "Files/icon-256.png" and "Files/loading-logo.png" files if same CID
-
-01 remove and unstash alias ("git rm --cached <file>...")
-01 use rust-git whenever possible
-
 Floflis tool for Windows time: Floflis stores when Floflis got connected to the Internet and its time/date changed, and identify when Windows has started and still offline. This tool will serve to not permit Windows messing up with time/date as its different from Linux. Windows is offline and its date/time is different of Linux, then when it goes online and changes date/time, and restarts to Linux and it also started offline: revert.
 
 HTML5 Player:

@@ -1,0 +1,8 @@
+- Experience: Floflis on Termux and Cygwn
+
+Flof advanced forms:
+- Ubuntu x86
+- Ubuntu ARM
+- Manjaro+KDE Plasma ARM+x86
+- Ubuntu RISC-V
+- Redox

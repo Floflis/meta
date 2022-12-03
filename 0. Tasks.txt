@@ -1,4 +1,31 @@
-- Funding/Treasury use: taskbar icon grouping!, merge explore menus, improved Calendar applet, dvd explorer option to use as Desktop, UniStore NFTs, FLOF 2.0 (token burn), button at desktop contextmenu "show in explorer", button at taskbar contextmenu "open task manager", explore button's power menu at rightclick, NFT shape at explore menu
+return of git updates
+
+Flf emergency updt (in case W3U error) - have update 0 applied and check for new hsh
+
+w3u sequential updates
+W3C README:
+Please avoid using W3C in production if your project is small; updating ENS entries (on dev side only; on user side its free) costs ETH until ENS v2 is launched on Layer2; so it will change soon
+Also, its recommended to use a Ethereum node you trust to avoid hacked updates that will risk your assets.
+-
+W3C, Plugz, 01:
+- detect shexec mode (also used by UniStore) and download binary and dependencies externally to tmp, before "." installing to libs
+- add this feature to map of projects and their mechs
+-
+- sh it: support for ENS full URLs (detects and replaces *.eth/ to CID/) without relying on IPNS
+- add this feature to map of projects and their mechs
+-
+W3C mkdocs (based on Floflis Docs) at separate branch
+- Installs libs and detects first start through update.json
+- How it have its own updates system, and how updates 4 and 5 adds new fields/functionalities (move to own-update.sh)
+- Stores timestamps and reads
+- How to add updates (edit both update_at and update.sh - every project have its own individual)
+- Using Plugz to install dependencies
+
+first batch of flf tkns - next is limited and permissive
+count the amount of FLOF tokens ever received
+egg frame for unverified (bght) https://link.medium.com/QAYThLE3bmb
+
+- Funding/Treasury use: taskbar icon grouping!, merge explore menus, improved Calendar applet, dvd explorer option to use as Desktop, UniStore NFTs, FLOF 2.0 (token burn), button at desktop contextmenu "show in explorer", button at taskbar contextmenu "open task manager", explore button's power menu at rightclick, NFT shape at explore menu, fund HTTB to support HTTPS and be used by GIPFS
 - Site: token allocation & others
 - Distribute gitPOAPs (also to fork cntrbtrs)
 - FLOF distribution Google Sheet

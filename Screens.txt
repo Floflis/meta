@@ -1,0 +1,15 @@
+test KaiOS sim in other Ubuntu
+if ok, test FMWK and Pocket Kitten
+test replacing KaiOS Gaia by FirefoxOS Gaia
+
+- fix Pocket Kitten relative URL in manifest.webapp
+fmwk r3:
+- put JS into "js/" folder
+- own repository for "app/", site and UI (UI uses FMWK Base)
+- research about getting CSS/JS from node module (if FMWK r3's CSS can work directly from calling from module so as it is possible with JS)
+- mkdocs for fmwk base
+
+Test Capy and with David Launcher
+
+Merged Firefox OS/KaiOS 2.5:
+- Detect new Gecko version then "port" to new APIs if newer version is detected

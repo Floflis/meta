@@ -13,3 +13,10 @@ Test Capy and with David Launcher
 
 Merged Firefox OS/KaiOS 2.5:
 - Detect new Gecko version then "port" to new APIs if newer version is detected
+
+Test with postmarketOS on Alcatel Pixi 3 phones:
+https://forum.xda-developers.com/t/alcatel-one-touch-pixi-3-thread-root-recovery-roms.3193624/
+https://forum.xda-developers.com/t/alcatel-one-touch-pixi-3-thread-root-recovery-roms.3193624/page-14#post-65045687
+https://firefoxosdevices.org/en/alcatel-one-touch-pixi-3-35/
+https://firefoxosdevices.org/en/alcatel-one-touch-pixi-3-40/
+https://firefoxosdevices.org/en/#type:all|coming-devices:yes

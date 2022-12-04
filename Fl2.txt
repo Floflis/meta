@@ -10,9 +10,6 @@ How Floflis is different, and the incubator of Web3:
 - restructure /1 folder
 - fl ppl (add new; .ppl file; ETH address, IPFS p ID)
 
-- Study about how the .game format will use a package.json with strict permissions and more security restrictions
-This package.json will be forced when the app is extracted into /tmp, before it loads.
-
 - Floflis Packager: mark if app have blur effect
 - linux-icons-generator: installer
 - Floflis Packager: when installing, process app's icon and .desktop
@@ -23,6 +20,9 @@ This package.json will be forced when the app is extracted into /tmp, before it 
 Personal Issues absolute path:
 /1/data/issues?
 add to Floflis Docs: Floflis isn't made for shared/multiuser computers (yet), going the opposite way that smartphones did
+
+- Study about how the .game format will use a package.json with strict permissions and more security restrictions
+This package.json will be forced when the app is extracted into /tmp, before it loads.
 
 - Floflis' Internet shortcut apps' icon generator (at Floflis Icons installer)
 - HTML5Apps Platform: app listing .sh (loop in /1/apps and /1/games and lists all, categorized)

@@ -28,6 +28,6 @@ egg frame for unverified (bght) https://link.medium.com/QAYThLE3bmb
 - Funding/Treasury use: taskbar icon grouping!, merge explore menus, improved Calendar applet, dvd explorer option to use as Desktop, UniStore NFTs, FLOF 2.0 (token burn), button at desktop contextmenu "show in explorer", button at taskbar contextmenu "open task manager", explore button's power menu at rightclick, NFT shape at explore menu, fund HTTB to support HTTPS and be used by GIPFS
 - Site: token allocation & others
 - Distribute gitPOAPs (also to fork cntrbtrs)
-- FLOF distribution Google Sheet
+- FLOF distribution Google Sheet https://github.com/Floflis/token/issues/1
 - 
 - 

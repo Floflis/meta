@@ -1,5 +1,3 @@
-Floflis tool for Windows time: Floflis stores when Floflis got connected to the Internet and its time/date changed, and identify when Windows has started and still offline. This tool will serve to not permit Windows messing up with time/date as its different from Linux. Windows is offline and its date/time is different of Linux, then when it goes online and changes date/time, and restarts to Linux and it also started offline: revert.
-
 HTML5 Player:
 - .html5 files
 - .swf files (maybe also .flv)
@@ -11,14 +9,10 @@ Floflis launch themes, such as the classic yellow of 2014
 
 Flolis Insiders blog
 
-Floflis Packager: remove all files/folders that are on .gitignore
-
-git config --global init.defaultBranch main
-git wrapper: on every git init: git branch -m main
-
-Internet Boat and Internet Cat will be merged into davidInternet; with support to Chromium extensions (/media/daniell/B/1/personal/projects/Desktop/Browser/Notes/Support for extensions)
+Floflis Packager: option to remove all files/folders that are on .gitignore
 
 Create sources for both alertz and alertz app. alertz will be based in FMWK for C2, and will have /media/daniell/UBUNTU/alertz.png as icon.
+
 
 Floflis Packager is having issues updating Internet-Boat's manifest.webapp
 pre-initpreview isn't working (tested at Internet-Boat)

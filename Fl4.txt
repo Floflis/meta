@@ -1,0 +1,157 @@
+personal issues: prchs drms
+- git-meta option: get hash of files being added
+- 01 option to signoff commits using ETH addr, by signing .gitmeta (it forces git-meta to enable CID option when listing files) and previous commit hash on every commit
+- davidExplorer: option show hidden files
+- dv explorer mobile: open in term (termux). can a cordv app work as term emu for termux?
+- "It just works"/"TheNext" - Verified IDs (both the unit, incentive and anti-spam) [MEDIUM] - De-duplicate txs - Work as bridge [HARD, delicate]
+- usv feature mode: dialogs. dm explaining abt fl with captions then user click nxt and can even chse options (test this feature on zln/cllbt yt 3d gm)
+- usv 15sec/30sec video overview
+- HTML5Apps: srch how does hermit works on Android
+- fmwk/fl sdk: support for gamepads and display which buttons to press for action (like KaiOS)
+- dvd writer: .txtx, use tags for "-------" so it displays properly responsive
+- tmgch: lettucegg, lettuceagle
+- poodle tabs for google, itself, qwant and bing
+- git serializer: turn a .git folder into a single file
+- dm personal issues: updt my token icn trst (required to unlock: yt, pblc)
+- msc insde the incl "dnt hnt th grl outsideyoubut insde"
+- plasmmer's PLA bounty for HTTB+HTTPS
+gipfs will use HTTB (require: fl first build)
+
+only launch fl first build if plasmmer site is ready
+coordinations DAO at gns/polygon, mv pla 10%
+-
+fl ready for frst bld
+- new name for its desktop/window themes (Floflis-Eleganse and Floflis-Adapta)
+- Ask Sybil.org if it still works
+- zmb spices
+- NFT backgrounds and UniStore pre-sales (temporary feature - tell it in the user agreement)
+- UniStore telling abt bgs and FLOF uses
+- B FLOF btn (integrate Ramp and rename their pj)
+- Fl Accounts (integrated with the Status srvr)
+- FLOF candy and mem gm
+- ready updts (crrent branch is Edge Insiders)
+- Firedoge
+- floapps and HTML5Apps Platform by Floflis (soon for Windows)
+-
+Fl Status new items:
+- rmv DAI
+- Usr cnt
+- Updt cnt
+- Dl cnt ?
+
+fl get avatar from ENS, also NFT avatars
+
+fl people
+"add" cmd, accept ETH addr and IPFS ID
+when uploading avatar to ENS, ask ppl to sd
+help user a lot about bkp of ETH addr and IPFS ID (bear icon)
+
+fl avatar selector menu: NFTs
+
+fl list of DAOs and those that are hiring + poaps
+
+fl inventory backgrounds: "set as desktop background" btn
+fl background selector dropdown context menu: NFTs
+
+fl NFT backgrounds publish/buy at pre-sale!
+publisher selects in which networks it will accept payments
+if fl identify publisher did received tx, it assigns temporary NFT (with signature from author) to buyer and applies background
+
+- fl call gh readme.md as git cards. get one from d then share yours and get from ppl
+- fl stars list, with yt music and their own smooth fading music on card hover; its abt prsnl tokens!
+- fl card display: updates cost eth. dnt and the necessary amount will go to dms pckt and the excess will go to make fl dao vault stronger
+
+track my liquidity pools of PJs/DAOs/personaltokens https://app.zerion.io/portfolio/overview
+
+- move all pjs to WIP status (W3U, FMWK)
+- the works: mark pjs as WIP, e ps their src, fix daos across ntwrks and daos' sites with token details
+- token data/allocation on all sites (fl, gmlr, pl)
+- mirroring.eth site (with thumbnails of its sites)
+Fl include mirroring.eth to pre-installed sites
+
+- c2 installer sh
+- fix floapps, add /applications shortcuts for .apps such as dvd explorer
+
+- fl packager test reproducibility (gipfs could help sd'ing apps/games)
+
+- fl inventory list Uniswap v3 pools
+-
+- fl identify region (through ubuntu and/or user input)
+- fl latin regions: pre-list nucoin, mercadocoin e brl-cbdc
+
+- fl deviceDex, catch new devices such as risc and arm
+
+fl ask if user constantly stores at phone clipboard, then rmnd to cln
+
+- fl central animation of slots for .sav
+- fl inventory: pokes from .sav
+- fl poke journeys: printer support for pokes
+
+
+Firedoge
+Since 2011 I thought about how customizing a browser with addons making it ergonomic and spawning a brand new browser. Firect theme
+-
+Floflis
+- It doesnt have Web3 because it wants to be the next frontier on OSes; because it wants to be the next frontier on OSes that it will ALSO have Web3.
+- File deduplication
+- Linux distros should be developed not with a eyeglass, an idea to fix other distros, coffee and some abilities; they should be developed with love. That's why they should be built 100% in Bash/Shell+JS/HTML/CSS (lets democratize visual event-sheets) and that's why "The year of the Linux in Desktop" did never came.
+- preserve folder's snapshots
+- crowd archival of ipfs sites
+-
+USV video frmt
+
+-
+FrameworkJS
+
+-
+Eventlr
+Programming should be known for the visual event-sheets, not bytes/hex/{}/();/notepad brainf&%c
+-
+HTML Apps Platform
+
+-
+Screens for feature phones
+
+-
+DCRS
+
+-
+AddressTower
+
+-
+FilePeace
+- Why don't we get inspired by git and (urgently, gently) de-duplicate the Web? In 100 years, we'll have more bits than atoms on Earth
+- Why aren't our screenshot files split in parts, containing HTML/CSS/SVG replacing lots of pixels? This could be also merged/intersected with my idea of file de-duplication.
+- Why having a whole new separated video coded to react/duet/reply to another video, when videos could simply be containers building on the top of other? You could deduplicate (and save) a lot of (mega)bytes by just linking a video on the video that wants to insert it. Also, mentioning the previous item: why lots of pixels to have texts/figures on your videos when they could simply be in HTML/CSS/SVG (even the transitions, in CSS)?
+- Git does deduplicate texty files such as HTML/CSV/XML/etc. Shouldn't it also deduplicate the audio's wave forms, images and the same as video frames+audio? Git was primarily made for developers (which mostly uses texty files, obviously), but what about LFS and the app/game's assets? Also, git have the potential for uses beyond the dev space. These advanced deduplicing capabilities shouldn't necessarily be added to git, but to a layer2 for it (or in competitors such as Pijul or a layer2 for both git and/or these competitors/alternatives)
+
+
+
+all sites: banner image when sharing link and meta
+
+Personal site:
+- disclaimer:
+- policies section: forks dont replace upstream - instead contributes or implements a specific feature need - unless they are abandn; I know when its not the time for something, so I'm not anymore too much interested in seasteads (they pose a risk until its the right time)
+- acts section: I didnt threatnd Rnbw; instead I discussed about DAO licenses while receiving skptism months before Uniswap v3 had its own license; as in the [policies section](), I dont fork to call my own nor frontrun (like CRV) unless its a simpler pj like WEI
+- pjs section: Ogt will not have all or most of Facebook features; instead, it will focus on its own (scraps, communities, blogs, gifts, PeepAndEarn orkoins)
+I want to preserve Facebook because its important the human hst
+I signed the Interdependence Manifesto but Mark Zuckerberg already told he's commited for a Metaverse not exclusive of a single company but distributed
+Facebook and Ogt have their own niche just as Facebook and Twitter can coexist
+- Flf will use Ethereum+ENS and IPFS for its own related updates; but you will not miss your APT's and untouched Ubuntu's updates you are already comfortable with; this isnt a full decentralized Web3 experience, but an experiment using Infu and IPFS gateways
+- Plasmmer will have no CEO, but probably it will require tech leads in their own areas; no OPI nor founder holding, but at treasury
+- agon client will not remove branding nor add any kind of ad/link of our own.
+XDai will be later removed and P cstm client will cease; after ensuring Reddit tokens are available on other chains
+This client will use ANT tokens as the official
+- about WebDAO (formerly Plasmozill)
+- Offst crbn footprint of all pjs
+- Gamlr (we arent building the "blockchainy Pokemon/Tamagotchi"; our focus are original games)
+-
+- maps of all PJ and their locations (githb, local fold)
+- lnk to prsnl blog
+- g nltcs
+
+psts ths dfclt t
+g nltcs
+
+prsnl blog
+g nltcs

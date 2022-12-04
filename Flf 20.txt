@@ -1,28 +1,12 @@
-- to-merge.sh contains all features that will be ported to other layers, for quick tests, and comments for every layer / works after DNA layer, as a medium for Core
-- Comment: "former X Layer"
-- Cinnamon DE
 - Support to run custom scripts after install (UniOS)
-- Default applets and desklets
-- Default background
-- (TEST)
 
 Tasks:
-- firstboot sh identifies username and reads from JSON and writes correctly (TEST)
-- Ethereum wallet
 - User profile (username, IPFS ID, ETH address)
 - investigate the cron issue
-- fix Soil layer (TEST)
 - Backup Seed (rnbow-compatible) and IPFS ID, encrypted on cloud services
 -
 - Ask if IPFS Desktop uses the existing go
 - If upper layer is detected, dont install go-ipfs and change flo-init for IPFS Desktop instead
-
-- Default Applets and their data (cant manage user folder yet)
-- Plasmozill Firefloflis as default browser (in updates it will ask Fhrome or Firefloflis) (cant manage user folder yet)
--
-- Default Desklets and their data
--
-- Default Extensions and their data
 
 Then:
 
@@ -35,10 +19,7 @@ Norml version:
 - Lnch POAP
 - Physical bx with NFT
 
-Updates:
-- FLOF governance
-
-Flf 2.
+Flf 20
 - First Boot assistant before login screen
 - Explore menu img with theme
 - ffln search (use vznt)
@@ -65,7 +46,7 @@ Flf 2.
 - Provide feedback
 - Feedback for Windows .exe
 
-Flf 22:
+Flf Vision:
 - Alertaj (not integrated with Action Center, yet)
 - Deep integration with Plasmmer Accounts
 - Internet Cat alpha (both for Desktop and Mobile, using WalletConnect)

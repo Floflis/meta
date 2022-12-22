@@ -79,3 +79,5 @@ discover musicians and yts, help by making their own tokens
 https://app.rabbithole.gg/skills
 https://app.rabbithole.gg/quests
 https://blog.aragon.org/what-is-a-dao/
+
+Floflis utility: link viewer (for news, yt links, short links, etc)

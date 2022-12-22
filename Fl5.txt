@@ -1,0 +1,81 @@
+Floflis' frnd bags (sed it)
+Floflis interesting widgets:
+- World birch count, live https://www.worldpop.org/sdi/introapi/
+- Personalizable calendar
+- Personalizable wall/digital clock
+- Weather+what day is today (this feature could be shared with the calendar widget)
+- Plasmmer Health
+Floflis: after some builds, introduce new background that better define it (pnk gaming)
+Floflis question: what profile better defines you?
+Floflis automatic shortcts, such as opening files, song folders, video folders, playlists, etc (no need for scripting knowledge)
+
+Fl site: Discourse, LinkedIn
+
+UniStore initial support for:
+- .apps
+- .game
+- web
+- .deb
+- .sh (warn)
+- .exe (multi or fallback WINE)
+- .apk (multi or fallback Anbox)
+- .xpi (multi)
+- .crx (multi)
+- .c2addon (multi)
+- .c3addon (multi)
+
+UniStore should balance open-source and closed needed apps
+
+UniStore first apps:
+- UniStore? (.apps)
+- Bpbx (.apps sndbxd)
+- xplr (.apps)
+- wrtr (.apps)
+- HTML5 Player (.apps)
+- 4K apps (deb, exe, apk)
+- OBS Studio
+- Hndbrk
+- Steam
+- Ltrs
+- Blnd
+- sfxr
+- gsc
+- Cnstrct (exe, web)
+
+Flo Update:
+- Layers
+- Floapps
+- Centrl (.apps)
+- HTTB
+- MLQ
+- online
+- shared libs
+
+Fl mnstrm vs. w3 feats:
+mnstrm:
+- WINE+vi (call it VINE)
+- Media mode (boot to Kiosk UI instead of Desktop), with KD 📺 and em 🎮
+- Professional setups (musician, YT, strmr)
+- Comp course (with steps/maps, levels, badges)
+- Interesting widgets and applets
+- Fl Places (integrated with Fl frnds)
+w3:
+- Built-in ETH identity/auth/act
+- Tokens wallet, NFTs inventory (shareable profile)
+- w3u
+- DAO assistants (DAOs should be integrated with Fl Places and Fl frnds)
+
+Flf quests:
+- verify at Uniswap Sybil
+- signup and verify at Binance then earn NFT (Binance Account Bound - BAB)
+- Complete rabbithole.gg tasks [require integration]
+- Create Showtime.xyz account [?]
+- Create Mirror.xyz account [?]
+
+Flf musics and SF sounds
+
+discover musicians and yts, help by making their own tokens
+
+https://app.rabbithole.gg/skills
+https://app.rabbithole.gg/quests
+https://blog.aragon.org/what-is-a-dao/

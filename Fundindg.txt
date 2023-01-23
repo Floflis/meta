@@ -1,1 +1,8 @@
-cinnamon window-app-list applet: possibility to create openned-windows groups, such as a Explorer window and a Witchcraft window
+cinnamon window-app-list applet:
+- possibility to create openned-windows groups, such as a Explorer window and a Witchcraft window
+more here: https://cinnamon-spices.linuxmint.com/applets/view/287, which are:
+- Support for drag&drop when a button have more than 1 window open (Cinnamon's original applet don't support this)
+- Drag/reorder windows in a button
+- Button groups
+- Window groups
+more: https://github.com/Cobinja/CobiWindowList/issues

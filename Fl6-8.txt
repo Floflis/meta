@@ -1,0 +1,149 @@
+floflis packager/floflis-application-handler: study how .deb and .appimage works then insp
+/home/daniell/Downloads/Apps-Programs/.DEB/wezterm/UniStore SharedBytes test
+/home/daniell/Downloads/Apps-Programs/.APPIMAGE
+
+Flf dt import (mrcd lvr, other)
+Flf scrt strm
+Evt hobbyist (Py)
+
+Fl development, and experiment: DAOs forming TV channels/TV cooperatives
+
+Fl ntrcpt screenshots: if HTML5Apps app, HTML screenshot; else, go to normal screenshot app
+
+Flf 19
+- Remove IPFS Desktop
+- Communic placeholder app, when working, will support only public groups (IPFS), not private messages (Plasmmer Accounts)
+
+Flf 20
+- Flf Screens 20
+- Merge all start menus
+- Own applets, such as quick settings
+
+Flufluntu: Floflis with GNOME
+https://diolinux.com.br/noticias/extension-manager-gnome.html
+
+Floflis identify OLED screen
+Built-in hardware display brightness slider
+Identify hardware+driver that works (such as microphone) and identify when it stopped working (and after what event it did happened, in Floflis Events/Journaling)
+
+UniStore:
+- 4K Video Downloader (Mobile, Desktop)
+- MuseScore (Desktop)
+- FL Studio
+-
+Firedoge: Chromium mode! 🔥 (option to select as default when opening)
+-
+Floflis Platform (floapps, DNA)
+FloflisOS (Cinnamon)
+Flubuntu (same base as UniOS: Phosh Gnome)
+Flarch (same base as Pine's Manjaro)
+FliSD (BSD)
+Floflis Screens (Web, DCRS, KaiOS3)
+FiredogeOS (FxOS, KaiOS2)
+-
+Floflis' handy scripts:
+- list all files present in a folder that are missing in another
+- list all files in a folder and check (by hash) if they're present in another folder
+
+- Floflis Screens fix
+- Floflis Screens re-work/new features
+- Floflis Screens pure > C2
+
+- start working on Floflis PCB (armhf, arm64) and test release on boards (this will also start Floflis Grants - for example, for compiling Starship for other archs)
+- take use of ". ./path/.test.sh" or ". ./test.sh" and "export variable"
+- next Floflis builds will add new apps such as Firedoge, enable UniOS, move from to-merge.sh into proper layers and start working on Floflis Update (both CLI and UI)
+
+Preserve files unlike OS timestamps and services like Mega are doing
+
+Fubuntu: the same Ubuntu using GNOME and its themes; but with Floflis layers, Starship, Cicada (Bash), and Floflis Central
+
+UniStore listings:
+- Magica Voxel (Windows/Wine, free/open-source)
+- Vector Magic (Windows/Wine, paid)
+- Construct 2 (Windows/Wine, freemium)
+- Gif Movie Gear (Windows/Wine, freemium)
+- UniStore (Linux, free/open-source)
+- League of Legends (Windows/Wine)
+16-02-22 09:19
+- Driver Booster (Windows/Winflis layer)
+16-02-22 09:21
+- Use CommonChain on others' apps (Magica Voxel, Gif Movie Gear, League of Legends, Driver Booster, etc)
+16-02-22 09:28
+- Rainbow wallet (Android, free/open-source)
+- Axie Infinity (Android, Windows/Winflis layer - Investing/PlayAndEarn)
+- Instagram (Android, free)
+09:34
+- Uniswap (webdapp, free/open-source)
+- Aragon (webdapp, free/open-source)
+- Hop (webdapp, free/open-source)
+- GDevelop (Windows, Linux, MacOS - free/open-source)
+09:37
+- Eventlr (Linux, free/open-source)
+- HTML5 Player (Linux, free/open-source)
+- Personal Issues (Linux, free/open-source)
+- Offline Poster
+- Firedoge (make file so the app know its already being updated externally)
+09:48
+UniStore listings:
+- Argent (Android, free)
+- MetaMask (Firefox/Firedoge, Chrome/Opera/Brave/Edge)
+- Electron (Construct 2, Construct 3)
+16-02-22 13:30
+- Desmume (Windows/Wine, free/open-source)
+13:38
+- Smygb (Windows/Wine)
+- TGB Dual (Windows/Wine)
+13:39
+- J2Me (Firefox OS)
+13:40
+- FrameworkJS test app (Web, Firefox OS, KaiOS, Android, iOS, Windows, Linux, MacOS)
+13:43
+- GBA emu/VBA (Windows/Wine, Web/Emscripten)
+13:44
+- Whatsapp (Android, iOS (native), Windows, Linux, MacOS (electron), KaiOS)
+13:53
+
+flf usr srv:
+- DB: unminted token balance
+- use CommonChain (shared with XPS)
+- DB/ledger: messages signed
+- DB: alternative ETH addresses (also list them on local Floflis so Central can mix listing tokens/assets as Zerion does)
+
+rename Floflis Central icon to simply Central
+12-02-22 23:59
+
+FloLand: support planting berries, but support only those comming from Pokémon official games (GSC, RSE, DPP)
+15-02-22 22:38
+
+flf usr srv:
+- email (services can ask user to get crypto address from their email. Eg. a service doing an airdrop to its users from email)
+15-02-22 22:42
+
+Screens DE manages windows (programmable window manager)
+28-01-22 22:25
+
+Pla accontability: add geladeira fixers to be rated (through Pix key and others) then accountability in service workers in database
+Fl token discover: MercadoCoin/Nucoin, soccer fan tokens, personal tokens
+Fl Mind Focus & Mind Reset
+
+Fl translations for Ubiquity slider
+Then open translation bounty
+Make apps such as Central localized
+Fl NFC experiment (.exe, drivers, software, supported products, passwords)
+UniStore for PortableApps Platform (also find apps that arent listed in their repo, such as MagicaVoxel) ✨️
+
+personal task: move poaps to mainnet (supported by Fl)
+fl air quality widget (both for desktop and central); fl recommend lgl services (av/vf)
+
+- Whatipfsapp
+- Fl new script: two folders, deduplicate with symlink (use it for my DCIM folders)
+- cllbrtn Fl e Ubuntu Cinnamon Remix (rename Cubuntu?, shared bash script for Cinnamon, zmb applets/desklets)
+
+4KVideoDownloader/others: download in USV, so thumbnail, title, description, channel, channel name/avatar and other metadata is kept with the video!
+
+- ask Termux abt git timestamp and Fl DNA
+- Floflis @ gitpoap, distribute
+- Fl introduce new Linux folder: apptmp (dont delete on restart, only apps can do it when need. for example, a text editor saving tabs as .txt files)
+
+.txt.floflis files have built-in git
+srch gh JS ppt editor (will enable .ppt(x) files with git that only works in Floflis)

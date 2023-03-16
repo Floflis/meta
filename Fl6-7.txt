@@ -1,0 +1,33 @@
+floflis packager/floflis-application-handler: study how .deb and .appimage works then insp
+/home/daniell/Downloads/Apps-Programs/.DEB/wezterm/UniStore SharedBytes test
+/home/daniell/Downloads/Apps-Programs/.APPIMAGE
+
+Flf dt import (mrcd lvr, other)
+Flf scrt strm
+Evt hobbyist (Py)
+
+Dv Explorer intelligently understand an Android storage then app folders; show icon on Instagram photos from their folders and also index. Also show app icon in screenshots by reading from their titles.
+
+Fl development, and experiment: DAOs forming TV channels/TV cooperatives
+
+Fl ntrcpt screenshots: if HTML5Apps app, HTML screenshot; else, go to normal screenshot app
+
+Flf 19
+- Remove IPFS Desktop
+- Communic placeholder app, when working, will support only public groups (IPFS), not private messages (Plasmmer Accounts)
+
+Flf 20
+- Flf Screens 20
+- Merge all start menus
+- Own applets, such as quick settings
+
+Flufluntu: Floflis with GNOME
+https://diolinux.com.br/noticias/extension-manager-gnome.html
+
+LiveGit: 01VCS plugin for text editors
+
+Floflis identify OLED screen
+Built-in hardware display brightness slider
+Identify hardware+driver that works (such as microphone) and identify when it stopped working (and after what event it did happened, in Floflis Events/Journaling)
+
+

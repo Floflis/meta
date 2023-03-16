@@ -1,0 +1,5 @@
+floflis packager/floflis-application-handler: study how .deb and .appimage works then insp
+/home/daniell/Downloads/Apps-Programs/.DEB/wezterm/UniStore SharedBytes test
+/home/daniell/Downloads/Apps-Programs/.APPIMAGE
+
+

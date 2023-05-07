@@ -1,0 +1,9 @@
+nemo ~/Folder\ Name\ With\ Spcs
+when install put window above
+initial steps
+
+//projects
+
+add to explore menu
+
+autostart

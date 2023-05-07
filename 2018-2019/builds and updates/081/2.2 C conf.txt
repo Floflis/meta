@@ -1,0 +1,3 @@
+create P profile
+tip for ngb rtng (socl, mus)
+update IP on profile folder

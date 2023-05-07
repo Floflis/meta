@@ -1,0 +1,35 @@
+Requires dat-node and creates dat on config folder:
+var Dat = require('dat-node')
+
+// 1. My files are in /joe/cat-pic-analysis
+Dat('/joe/cat-pic-analysis', function (err, dat) {
+  if (err) throw err
+
+  // 2. Import the files
+  dat.importFiles()
+
+  // 3. Share the files on the network!
+  dat.joinNetwork()
+  // (And share the link)
+  console.log('My Dat link is: dat://' + dat.key.toString('hex'))
+})
+
+--------------------------------------------------------------------
+
+Upload sync data:
+dat sync <link>
+
+--------------------------------------------------------------------
+
+On any device, ask to sync:
+dat <link> [<dir>]
+
+--------------------------------------------------------------------
+
+Download sync data:
+dat pull <link>
+
+--------------------------------------------------------------------
+
+- Warn about prtc home/.dat folder and its keys
+- Send message asking for seed of settings

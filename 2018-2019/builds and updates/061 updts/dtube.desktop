@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment[en_US]=Decentralized video platform
+Comment=Decentralized video platform
+GenericName[en_US]=dtube
+GenericName=dtube
+Type=Application
+Icon=/1/Apps/DTube/favicon.ico
+Name[en_US]=DTube
+Name=DTube
+StartupNotify=true

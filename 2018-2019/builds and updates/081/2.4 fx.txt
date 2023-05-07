@@ -1,0 +1,2 @@
+detect fx profile folder
+fx ipfs

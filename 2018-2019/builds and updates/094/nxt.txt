@@ -1,0 +1,3 @@
+- Accessibility
+- FMWK accessibility for any pj
+- when an app request another to open, can send arguments. and the openning app can - send status and if is openned, also tell when hidden, closed or running as background/service

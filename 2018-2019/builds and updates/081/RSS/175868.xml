@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:re="http://purl.org/atompub/rank/1.0">
+    <title type="text">What can be done to make Wine look more integrated into Unity? - Ask Ubuntu</title>
+    <link rel="self" href="https://askubuntu.com/feeds/question/175868" type="application/atom+xml" />
+    <link rel="alternate" href="https://askubuntu.com/q/175868" type="text/html" />
+    <subtitle>most recent 30 from askubuntu.com</subtitle>
+    <updated>2019-06-20T22:51:01Z</updated>
+    <id>https://askubuntu.com/feeds/question/175868</id>
+    <creativeCommons:license>http://www.creativecommons.org/licenses/by-sa/3.0/rdf</creativeCommons:license> 
+    <entry>
+        <id>https://askubuntu.com/q/175868</id>
+        <re:rank scheme="https://askubuntu.com">16</re:rank>
+        <title type="text">What can be done to make Wine look more integrated into Unity?</title>
+            <category scheme="https://askubuntu.com/tags" term="wine" />
+            <category scheme="https://askubuntu.com/tags" term="gtk" />
+            <category scheme="https://askubuntu.com/tags" term="ambiance" />
+        <author>
+            <name>Vagrant232</name>
+            <uri>https://askubuntu.com/users/74747</uri>
+        </author>
+        <link rel="alternate" href="https://askubuntu.com/questions/175868/what-can-be-done-to-make-wine-look-more-integrated-into-unity" />
+        <published>2012-08-14T19:27:13Z</published>
+        <updated>2018-06-26T00:26:44Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;Wine looks like an alien that says &quot;Hello, I am definitely not part of your desktop environment&quot;. Many wine applications have no icons and wine itself runs on the ugly-looking windows 95 theme. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Is there a way to make wine more aesthetic and less alien? &lt;/li&gt;
+&lt;li&gt;How can I add icons to wine programs such as MS office for instance? &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I tried the Ambience XP theme but it doesn&#39;t look so great and still feels unrelated to Unity&#39;s GTK3 Ambience theme. &lt;/p&gt;
+
+&lt;p&gt;Joey-Elijah, the editor of OMG! UBUNTU! made a post about a script that integrates wine into the desktop but I ran the script and it had no effect. I assumed that the script doesn&#39;t run on Precise. Am I wrong? Is there a way to make wine look... prettier?&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>https://askubuntu.com/questions/175868/-/176340#176340</id>
+        <re:rank scheme="https://askubuntu.com">18</re:rank>
+        <title type="text">Answer by RolandiXor for What can be done to make Wine look more integrated into Unity?</title>
+        <author>
+            <name>RolandiXor</name>
+            <uri>https://askubuntu.com/users/1992</uri>
+        </author>
+        <link rel="alternate" href="https://askubuntu.com/questions/175868/what-can-be-done-to-make-wine-look-more-integrated-into-unity/176340#176340" />
+        <published>2012-08-16T00:16:45Z</published>
+        <updated>2012-08-19T22:56:55Z</updated>
+        <summary type="html">&lt;p&gt;Unfortunately, due to the nature of Windows, and thus Wine, it is currently rather difficult to achieve what you are looking for.&lt;/p&gt;
+
+&lt;p&gt;As far as I&#39;m aware, there are plans to eventually have Wine applications take on the style of the desktop they are running on, but trust me, this will probably take a while before it ever happens.&lt;/p&gt;
+
+&lt;p&gt;Your best bet is to use &lt;code&gt;winetricks&lt;/code&gt;, which has an option use your Desktop&#39;s colour scheme to theme Wine applications. Other than that, unless someone has created a style, there isn&#39;t much you can do.&lt;/p&gt;
+
+&lt;p&gt;The numerous icon theme replacements out there for Windows &lt;em&gt;can&lt;/em&gt; work, but not very well, due to differences between Wine&#39;s and Windows&#39; &lt;code&gt;shell*.dll&lt;/code&gt;s. I&#39;m sorry I cannot provide you with the solution you wanted.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I see that my answer has not been enough for you so I&#39;m going to try to make it more satisfactory.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Is there a way to make wine more aesthetic and less alien?&lt;/strong&gt;&lt;br&gt;
+Yes, but it is difficult. You would need to create a &lt;code&gt;.msstyles&lt;/code&gt; theme for Windows (XP compatible) and then apply this as a theme in Wine. Since Microsoft never intended for any custom themes to be created, creating &lt;code&gt;msstyles&lt;/code&gt; is not a &quot;walk in the park&quot; and creating one that matches Ubuntu&#39;s style is even more difficult.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Doubt what I&#39;m saying?&lt;br&gt;
+Read here: &lt;a href=&quot;http://en.wikipedia.org/wiki/MSSTYLES&quot;&gt;http://en.wikipedia.org/wiki/MSSTYLES&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;How can I add icons to wine programs such as MS office for instance?&lt;/strong&gt;&lt;br&gt;
+Yes and no. You can patch these applications, but please remember, Windows applications are for the most part themed very differently from the applications you will find on Ubuntu (especially Microsoft products).&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;You can apply &quot;transformation packs&quot; in Wine, but unfortunately the results will be somewhat different from what you would expect on Windows (&lt;em&gt;trust me, I&#39;ve tried&lt;/em&gt;).&lt;br&gt;
+This is largely because transformation packs are designed to theme a whole Desktop Environment (from the File Manager back to the Taskbar). Wine does not have some of the components of Windows, and so all you will be seeing is specific applications with minor, incomplete changes, such as changed icons, and not all of the icons will change either.&lt;/li&gt;
+&lt;li&gt;Most official Windows applications (especially Microsoft products) do not use freely changeable icons (like what you would find in Ubuntu) that you can swap for other themes. The icons are &quot;hard coded&quot; into dlls like &lt;code&gt;shell.dll&lt;/code&gt;, and sometimes in application specific dlls. Occasionally, an application in Windows uses external resources (like &lt;code&gt;.png&lt;/code&gt; files) that you can change, but this is rare, and so it won&#39;t make any difference in your Wine experience.&lt;/li&gt;
+&lt;li&gt;Even if you do manage to apply a transformation pack, you will likely create instability in your applications (&lt;em&gt;trust me, I&#39;ve tried!!!&lt;/em&gt;). For this reason, I advise you to just put up with what is available. Unless a miracle happens, there is no other answer anyone can give you.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+    </entry>    <entry>
+        <id>https://askubuntu.com/questions/175868/-/756775#756775</id>
+        <re:rank scheme="https://askubuntu.com">2</re:rank>
+        <title type="text">Answer by QwertyChouskie for What can be done to make Wine look more integrated into Unity?</title>
+        <author>
+            <name>QwertyChouskie</name>
+            <uri>https://askubuntu.com/users/448562</uri>
+        </author>
+        <link rel="alternate" href="https://askubuntu.com/questions/175868/what-can-be-done-to-make-wine-look-more-integrated-into-unity/756775#756775" />
+        <published>2016-04-13T00:46:50Z</published>
+        <updated>2018-06-26T00:26:44Z</updated>
+        <summary type="html">&lt;h1&gt;Wine-staging now has an option for GTK theming.  To use it:&lt;/h1&gt;
+
+&lt;h3&gt;1. First, install &lt;code&gt;wine-staging&lt;/code&gt;:&lt;/h3&gt;
+
+&lt;p&gt;From &lt;a href=&quot;https://wiki.winehq.org/Ubuntu&quot; rel=&quot;nofollow noreferrer&quot;&gt;https://wiki.winehq.org/Ubuntu&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;If your system is 64 bit, enable 32 bit architecture (if you haven&#39;t
+already):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo dpkg --add-architecture i386
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Add the repository:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;wget -nc https://dl.winehq.org/wine-builds/Release.key
+sudo apt-key add Release.key
+sudo apt-add-repository https://dl.winehq.org/wine-builds/ubuntu/
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Update the package list:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt-get update
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Then install:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt-get install --install-recommends winehq-staging
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If apt-get complains about missing dependencies, install them, then
+repeat the last two steps (update and install).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;2. Enable GTK theming:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Open &lt;code&gt;winecfg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Click the &quot;Staging&quot; tab&lt;/li&gt;
+&lt;li&gt;Check &quot;Enable GTK Theming&quot;&lt;/li&gt;
+&lt;li&gt;Click OK&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;3. Enable font smoothing:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://askubuntu.com/questions/219791/improve-gui-appearance-of-wine-applications/219795#219795&quot;&gt;Improve GUI appearance of Wine applications&lt;/a&gt;&lt;/p&gt;
+</summary>
+    </entry></feed>
